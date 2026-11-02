@@ -1,0 +1,17 @@
+k=3 alpha=1 val r2=0.7162
+k=3 alpha=10 val r2=0.7162
+k=3 alpha=100 val r2=0.7161
+k=3 alpha=1000 val r2=0.7131
+k=4 alpha=1 val r2=0.7348
+k=4 alpha=10 val r2=0.7349
+k=4 alpha=100 val r2=0.7355
+k=4 alpha=1000 val r2=0.7286
+k=5 alpha=1 val r2=0.7161
+k=5 alpha=10 val r2=0.7183
+k=5 alpha=100 val r2=0.7269
+k=5 alpha=1000 val r2=0.7104
+k=6 alpha=1 val r2=0.6051
+k=6 alpha=10 val r2=0.6757
+k=6 alpha=100 val r2=0.7116
+k=6 alpha=1000 val r2=0.6773
+{'dataset': 'synth', 'model': 'kmer', 'seed': 1337, 'r2': 0.7382005453109741, 'spearman': 0.8483249720250484, 'rmse': 0.801491696686549, 'mae': 0.6292738914489746, 'accuracy': 0.69985, 'precision_macro': 0.7138830381860967, 'recall_macro': 0.6997486160521266, 'f1_macro': 0.7032080232907209, 'minutes': 0.7, 'k': 4, 'alpha': 100, 'r2_vs_true_mrl': 0.8037519104033007}

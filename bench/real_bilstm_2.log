@@ -1,0 +1,4 @@
+epoch 1: train MSE 0.5981
+epoch 2: train MSE 0.4585
+epoch 3: train MSE 0.3797
+{'dataset': 'real', 'model': 'bilstm', 'seed': 2, 'r2': 0.8283615112304688, 'spearman': 0.8906265386382636, 'rmse': 0.8047329417610475, 'mae': 0.5972310304641724, 'accuracy': 0.78305, 'precision_macro': 0.7440299703892986, 'recall_macro': 0.7244207151931206, 'f1_macro': 0.7196654278561931, 'minutes': 3.3, 'n_params': 46161}

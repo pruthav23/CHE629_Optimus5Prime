@@ -1,0 +1,7 @@
+{
+ "edges": [
+  5.98283581785,
+  7.633183813003334
+ ],
+ "note": "tertiles of the 260k training MRL distribution; low/medium/high class boundaries"
+}

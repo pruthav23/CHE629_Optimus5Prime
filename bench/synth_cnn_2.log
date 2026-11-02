@@ -1,0 +1,4 @@
+epoch 1: train MSE 0.2365
+epoch 2: train MSE 0.1840
+epoch 3: train MSE 0.1796
+{'dataset': 'synth', 'model': 'cnn', 'seed': 2, 'r2': 0.8507691025733948, 'spearman': 0.8877092903007546, 'rmse': 0.6074271738489737, 'mae': 0.48221445083618164, 'accuracy': 0.74995, 'precision_macro': 0.748763794939325, 'recall_macro': 0.7499051997380377, 'f1_macro': 0.7464930157748976, 'minutes': 7.4, 'n_params': 474681, 'r2_vs_true_mrl': 0.9259391873276187}
